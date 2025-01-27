@@ -7,7 +7,7 @@ class Dog {
     }
 
     void bark() {
-        System.out.println(name + " says Woof!");
+        System.out.println(name + " says Woog!");
     }
 }
 
@@ -17,3 +17,4 @@ public class DogTest {
         myDog.bark();
     }
 }
+
